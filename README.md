@@ -11,6 +11,12 @@ A simple Flutter app that displays a restaurant menu using **ListView** and card
 
 ---
 
+## 📸 Screenshots
+
+Screenshot/MENU.jpg
+
+---
+
 ## 🚀 Getting Started
 
 git clone https://github.com/techie-vishal07/Flutter_Restaurant-Menu.git
